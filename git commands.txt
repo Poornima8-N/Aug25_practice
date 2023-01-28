@@ -1,0 +1,14 @@
+To download the git client tool
+-https://git-scm.com/download/win
+
+tp intilise the repository
+-git init
+
+this commands is used to clone the repository
+-git clone https://github.com....
+
+git add --all
+--git add "filename"
+-git commit -m "commit message"
+-git push "repo-link"
+git pull "repo link"
